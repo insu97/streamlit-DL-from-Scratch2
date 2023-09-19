@@ -1,5 +1,5 @@
-|streamlit|
-|torch|
-|spacy|
-|transformers|
-|tensorflow|
+streamlit
+torch
+spacy
+transformers
+tensorflow
