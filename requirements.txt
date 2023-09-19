@@ -1,4 +1,4 @@
 pip
-torch==1.8.0+cpu
 streamlit
 transformers
+torch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1
