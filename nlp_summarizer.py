@@ -2,7 +2,7 @@ import streamlit as st
 from transformers import pipeline
 
 # Hugging Face Transformers를 사용하여 요약 모델을 불러옵니다.
-summarizer = pipeline('summarization',model='sshleifer/distilbart-cnn-12-6')
+summarizer = pipeline('summarization')
 
 # Streamlit 애플리케이션 설정
 st.title("자연어 요약 앱")
