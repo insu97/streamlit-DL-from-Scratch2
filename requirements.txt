@@ -1,3 +1,4 @@
+pip
 streamlit==1.11.0
 torch<=1.8.2+cu111
 transformers
