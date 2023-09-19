@@ -8,7 +8,8 @@ from transformers import pipeline
 def load_summarizer():
     model = pipeline("summarization", device=0)
     return model
-
+    
+summarizer = load_summarizer()
 # Streamlit 애플리케이션 설정
 # st.title("자연어 요약 앱")
 # st.write("이 앱은 텍스트를 입력하고 자동으로 요약하는 데 사용됩니다.")
