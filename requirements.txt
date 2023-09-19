@@ -1,3 +1,4 @@
+pip
 transformers
 torch
-tensorflow
+tensorflow<2.11
