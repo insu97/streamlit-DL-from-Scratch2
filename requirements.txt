@@ -1,3 +1,4 @@
-torch
+pip
+torch==1.8.0+cpu
 streamlit
 transformers
