@@ -2,5 +2,4 @@ streamlit
 transformers
 transformers[torch]
 transformers[tf-cpu]
-# torch
-# tensorflow
+transformers[flax]
