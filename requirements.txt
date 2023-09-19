@@ -1,7 +1,2 @@
 streamlit
-pandas
-numpy
 transformers
-tensorflow
-torch
-conda
