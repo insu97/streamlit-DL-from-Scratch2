@@ -1,3 +1,4 @@
 streamlit
 git+https://github.com/huggingface/transformers.git
 torch==1.6.0
+tensorflow==2.3.0
