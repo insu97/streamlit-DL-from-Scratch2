@@ -1,5 +1,6 @@
 import streamlit as st
 from transformers import pipeline
+import torch
 
 # Hugging Face Transformers를 사용하여 요약 모델을 불러옵니다.
 summarizer = pipeline('summarization',model='sshleifer/distilbart-cnn-12-6')
