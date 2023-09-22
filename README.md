@@ -1,2 +1,1 @@
-# FUNFUN
- 
+# Streamlit - Deep Learning from Scratch
