@@ -2,3 +2,4 @@ streamlit
 numpy
 sklearn
 matplotlib
+plotly
