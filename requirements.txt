@@ -1,9 +1,2 @@
-<<<<<<< HEAD
 streamlit
 numpy
-=======
-pip
-streamlit==1.11.0
-torch<=1.8.2+cu111
-transformers
->>>>>>> d2d113d5311109458ee78eed5dc7f4bc874fbfe0
